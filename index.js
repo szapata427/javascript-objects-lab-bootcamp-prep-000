@@ -9,3 +9,5 @@ function destructivelyUpdteObjectWithKeyAndValue(object, key, value) {
   
   return object
 }
+
+destructivelyUpdteObjectWithKeyAndValue(object, 'test', 'pass')
